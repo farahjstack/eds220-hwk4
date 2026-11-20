@@ -54,7 +54,7 @@ A true color image was created from the red, green, and blue bands, using `robus
 Farah Stack
 
 ## References
-- (2025). *Landsat 8 surface reflectance, Palisades and Eaton fire area, February 23, 2025* [Data set].
+- (2025). *Landsat 8 surface reflectance, Palisades and Eaton fire area, February 23, 2025.*
 - County of Los Angeles. (2025). *Palisades and Eaton dissolved fire perimeters (2025)* [Data set]. LA County GIS Data Portal. https://data.lacounty.gov/maps/ad51845ea5fb4eb483bc2a7c38b2370c/about
 - Bennett, M. M., Chen, J. K., Alvarez León, L. F., & Gleason, C. J. (2022). The politics of pixels: A review and agenda for critical remote sensing. *Progress in Human Geography, 46*(3), 729–752. (Check the details against the paper.)
 - NASA Earth Observatory. *Why is that forest red and that cloud blue? How to interpret a false-color satellite image.* https://earthobservatory.nasa.gov/features/FalseColor
